@@ -1,0 +1,11 @@
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\bin\Debug\OOP_Checkbox.exe.config
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\bin\Debug\OOP_Checkbox.exe
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\bin\Debug\OOP_Checkbox.pdb
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.csproj.AssemblyReference.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.csproj.SuggestedBindingRedirects.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.Form1.resources
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.Properties.Resources.resources
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.csproj.GenerateResource.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.csproj.CoreCompileInputs.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.exe
+D:\3-1\objectOrientedP\STUDY\OOP_Checkbox\OOP_Checkbox\obj\Debug\OOP_Checkbox.pdb

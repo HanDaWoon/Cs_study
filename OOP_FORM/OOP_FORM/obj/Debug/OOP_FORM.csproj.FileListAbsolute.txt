@@ -1,0 +1,11 @@
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.exe.config
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.exe
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.pdb
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.AssemblyReference.cache
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.SuggestedBindingRedirects.cache
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.Form1.resources
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.Properties.Resources.resources
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.GenerateResource.cache
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.CoreCompileInputs.cache
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.exe
+D:\3-1\objectOrientedP\STUDY\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.pdb

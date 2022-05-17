@@ -1,0 +1,11 @@
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\bin\Debug\OOP_TextBoxApp.exe.config
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\bin\Debug\OOP_TextBoxApp.exe
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\bin\Debug\OOP_TextBoxApp.pdb
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.csproj.AssemblyReference.cache
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.csproj.SuggestedBindingRedirects.cache
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.Form1.resources
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.Properties.Resources.resources
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.csproj.GenerateResource.cache
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.csproj.CoreCompileInputs.cache
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.exe
+D:\3-1\objectOrientedP\STUDY\OOP_TextBoxApp\OOP_TextBoxApp\obj\Debug\OOP_TextBoxApp.pdb
