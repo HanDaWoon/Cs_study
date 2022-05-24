@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_MenuClickApp", "OOP_MenuClickApp\OOP_MenuClickApp.csproj", "{D139EFE8-5F5D-486A-9CFE-658FB24F1DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D139EFE8-5F5D-486A-9CFE-658FB24F1DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D139EFE8-5F5D-486A-9CFE-658FB24F1DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D139EFE8-5F5D-486A-9CFE-658FB24F1DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D139EFE8-5F5D-486A-9CFE-658FB24F1DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E647EA-4D31-4973-A7FD-1E233C4DFD4E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\bin\Debug\OOP_MenuClickApp.exe.config
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\bin\Debug\OOP_MenuClickApp.exe
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\bin\Debug\OOP_MenuClickApp.pdb
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.csproj.AssemblyReference.cache
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.csproj.SuggestedBindingRedirects.cache
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.Form1.resources
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.Properties.Resources.resources
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.csproj.GenerateResource.cache
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.csproj.CoreCompileInputs.cache
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.exe
+D:\3-1\objectOrientedP\STUDY\OOP_MenuClickApp\OOP_MenuClickApp\obj\Debug\OOP_MenuClickApp.pdb

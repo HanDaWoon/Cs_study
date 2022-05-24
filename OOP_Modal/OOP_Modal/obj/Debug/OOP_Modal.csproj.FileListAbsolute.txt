@@ -1,0 +1,12 @@
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\bin\Debug\OOP_Modal.exe.config
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\bin\Debug\OOP_Modal.exe
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\bin\Debug\OOP_Modal.pdb
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.csproj.AssemblyReference.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.csproj.SuggestedBindingRedirects.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.Form1.resources
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.Form2.resources
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.Properties.Resources.resources
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.csproj.GenerateResource.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.csproj.CoreCompileInputs.cache
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.exe
+D:\3-1\objectOrientedP\STUDY\OOP_Modal\OOP_Modal\obj\Debug\OOP_Modal.pdb
